@@ -96,3 +96,7 @@ If you have any questions just ask at osm@mazdermind.de.
 
 Peter
 
+## For iOSMANALYZER
+
+As this package is not updated and maintained still it is required for iOSMAnalyzer. I suugest you to install all the repositories suggested by http://github.com/zehpunktbarron/iOSMAnalyzer. 
+
